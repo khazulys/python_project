@@ -1,2 +1,2 @@
-# python_project
+# Python Project
 Isinya semua simpel project
